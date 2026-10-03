@@ -8,7 +8,7 @@ The app **does not interact with the game**. It does not read game memory, netwo
 
 ## Install (Windows)
 
-1. Download `Island Tracker_x.y.z_x64-setup.exe` from the [Releases](../../releases) page.
+1. Download the latest `-setup.exe` file from the [Releases](../../releases) page.
 2. Run the file. The app installs for your user only and does not need admin rights.
 3. Windows SmartScreen can show "Windows protected your PC" because the installer is not code-signed. Select **More info → Run anyway**.
 4. Open **Island Tracker** from the Start menu.
